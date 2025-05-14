@@ -1,0 +1,4 @@
+message getdata_request
+{
+    string filename = 1;
+}
